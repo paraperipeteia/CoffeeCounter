@@ -13,16 +13,6 @@ int stretchCount;
 bool updateFlag;
 bool done;
 
-/*void Increment()
-{
-    coffeeCount++; 
-}
-
-void PrintCoffeeCount()
-{
-    printf("I've had %d coffees today!", coffeeCount);
-}*/
-
 void DoNewLine()
 {
     printf("\n");
